@@ -1,8 +1,8 @@
-# LAB - Class xx
+# LAB - Class 16
 
-## Project: Project Name Here
+## Project: First AWS Beanstalk
 
-### Author: Student/Group Name
+### Author: Reece Renninger
 
 ### Problem Domain  
 
@@ -10,11 +10,14 @@ Concise Description of why this app exists
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [GitHub Actions ci/cd](https://github.com/ReeceRenninger/cloud-server/actions) 
+- [back-end server url](http://lab16-2ndtry-env.eba-jrbxppkx.us-east-2.elasticbeanstalk.com/) 
+- [PR request to main](https://github.com/ReeceRenninger/cloud-server/pull/1)
 
 ### Collaborators
+
+- Ryan G helped with permissions issues.
+- Ike and I built out our labs side by side
 
 ### Setup
 
